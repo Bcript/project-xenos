@@ -1,3 +1,3 @@
 # project-xenos
 Code by xlxl, taskii and taskmanager
-Source from https://pizzaboxer.ml
+Source from https://pizzaboxer.xyz
